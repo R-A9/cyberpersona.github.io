@@ -1,0 +1,23 @@
+.main-header .main-menu ul ul.submenu>li>a:hover{
+    font-weight: 700;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #2c003e; 
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #5a0e76; 
+    border-radius: 6px;
+    border: 3px solid #2c003e;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #a320a9; 
+  }
+  
+  
