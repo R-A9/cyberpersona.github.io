@@ -1,2 +1,1 @@
-Final Group Project in Understanding the Self 
-IT-2A
+Final Group Project in GNED08 (Understanding the Self) 
